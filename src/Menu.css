@@ -1,0 +1,9 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: cyan;
+}
+.navItem{
+    font-size: 20px;
+    font-family: monospace;
+}
