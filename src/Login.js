@@ -73,7 +73,7 @@ this.setState({postsData:item});*/
         this.setState({ loginDone: true });
         }
         else{
-            alert("incorrect user name and password !!")
+            alert("You are not the correct user please register !!")
         }
         console.log("state", this.state);
     }
